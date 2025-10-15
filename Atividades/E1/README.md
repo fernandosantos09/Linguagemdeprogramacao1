@@ -39,7 +39,6 @@
   <li>💻 Aplicação prática de <strong>conceitos de lógica de programação</strong>.</li>
   <li>🧠 Exercício de <strong>análise e modelagem UML</strong>.</li>
   <li>🔍 Elaboração de <strong>testes de mesa</strong> para validação de algoritmos.</li>
-  <li>🎨 Integração de elementos <strong>visuais e musicais</strong> para reforçar o aprendizado.</li>
 </ul>
 
 <hr style="border: 1px solid #ccc;">
